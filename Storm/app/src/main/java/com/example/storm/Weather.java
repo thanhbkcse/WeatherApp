@@ -7,7 +7,7 @@ import java.util.TimeZone;
 public class Weather {
     private long id;
     private String main;
-
+    //a
     public double getMintemperature() {
         return Mintemperature;
     }
