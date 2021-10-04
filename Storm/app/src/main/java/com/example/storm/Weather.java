@@ -8,6 +8,7 @@ public class Weather {
     private long id;
     private String main;
     //a
+    //b
     public double getMintemperature() {
         return Mintemperature;
     }
